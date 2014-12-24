@@ -1,0 +1,97 @@
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\FlatRedBall.dll
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\theKing\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\FlatRedBall.dll
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+F:\computerProjects\FRB\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\theKing\Desktop\FRB_Projects\ICS2OTutorial\Project\consoleTemplate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+W:\Allan Legemaate\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Good Copy\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+E:\Good Copy\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Good Copy\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Good Copy\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Good Copy\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Good Copy\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Good Copy\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+F:\Good Copy\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Good Copy\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Good Copy\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+F:\Good Copy\ConsoleApplication1\bin\Debug\Slime Knight.exe
+F:\Good Copy\ConsoleApplication1\bin\Debug\Slime Knight.pdb
+F:\Good Copy\ConsoleApplication1\bin\Debug\Slime Knight.xml
+F:\Good Copy\ConsoleApplication1\obj\x86\Debug\Slime Knight.exe
+F:\Good Copy\ConsoleApplication1\obj\x86\Debug\Slime Knight.xml
+F:\Good Copy\ConsoleApplication1\obj\x86\Debug\Slime Knight.pdb
+E:\Good Copy\ConsoleApplication1\obj\x86\Debug\Slime Knight.exe
+E:\Good Copy\ConsoleApplication1\obj\x86\Debug\Slime Knight.xml
+E:\Good Copy\ConsoleApplication1\obj\x86\Debug\Slime Knight.pdb
+E:\Good Copy\ConsoleApplication1\bin\Debug\Slime Knight.exe
+E:\Good Copy\ConsoleApplication1\bin\Debug\Slime Knight.pdb
+E:\Good Copy\ConsoleApplication1\bin\Debug\Slime Knight.xml
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\Slime Knight.exe
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\Slime Knight.xml
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\Slime Knight.pdb
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\bin\Debug\Slime Knight.exe
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\bin\Debug\Slime Knight.pdb
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\bin\Debug\Slime Knight.xml
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\Slime Knight.exe
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\Slime Knight.xml
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\Slime Knight.pdb
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\bin\Debug\Slime Knight.exe
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\bin\Debug\Slime Knight.pdb
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\bin\Debug\Slime Knight.xml
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\bin\Debug\FlatRedBall.xml
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Allans Programming\Games Indev\SlimeKnight\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache

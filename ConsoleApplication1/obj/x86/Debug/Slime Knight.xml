@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SlimeKnight
+</name>
+</assembly>
+<members>
+<member name="M:ConsoleApplication1.Screens.ScreenManager.Activity">
+	<summary>
+ Calls activity on the current screen and checks to see if screen
+ activity is finished.  If activity is finished, the current Screen's
+ NextScreen is loaded.
+ </summary>
+</member><member name="M:ConsoleApplication1.Screens.ScreenManager.Start(System.String)">
+	<summary>
+ Loads a screen.  Should only be called once during initialization.
+ </summary>
+	<param name="screenToStartWith">Qualified name of the class to load.</param>
+</member><member name="M:ConsoleApplication1.Screens.ScreenManager.OnStateDeactivating">
+	<summary>Do all state deactivation work here.</summary>
+</member><member name="M:ConsoleApplication1.Screens.ScreenManager.OnStateActivating">
+	<summary>Do all state activation work here</summary>
+</member><member name="P:ConsoleApplication1.Screens.Screen.IsActivityFinished">
+	<summary>
+ Gets and sets whether the activity is finished for a particular screen.
+ </summary>
+	<remarks>
+ If activity is finished, then the ScreenManager or parent
+ screen (if the screen is a popup) knows to destroy the screen
+ and loads the NextScreen class.</remarks>
+</member><member name="P:ConsoleApplication1.Screens.Screen.NextScreen">
+	<summary>
+ The fully qualified path of the Screen-inheriting class that this screen is 
+ to link to.
+ </summary>
+	<remarks>
+ This property is read by the ScreenManager when IsActivityFinished is
+ set to true.  Therefore, this must always be set to some value before
+ or in the same frame as when IsActivityFinished is set to true.
+ </remarks>
+</member><member name="M:ConsoleApplication1.Screens.Screen.MoveToState(System.Int32)">
+	<param name="state">This should be a valid enum value of the concrete screen type.</param>
+</member><member name="M:ConsoleApplication1.Screens.Screen.HandleBackNavigation">
+	<summary>Default implementation tells the screen manager to finish this screen's activity and navigate
+ to the previous screen on the backstack.</summary>
+	<remarks>Override this method if you want to have custom behavior when the back button is pressed.</remarks>
+</member><member name="P:ConsoleApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ConsoleApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ConsoleApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
